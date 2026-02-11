@@ -1,6 +1,6 @@
 {
-    "name": "flutter_2048",
-    "short_name": "flutter_2048",
+    "name": "Puzzle 2048",
+    "short_name": "Puzzle 2048",
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
